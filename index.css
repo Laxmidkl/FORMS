@@ -5,7 +5,7 @@
 
 
 .container {
-    background: url('../practice/a.jpg');
+    background: url('./a.jpg');
     height: 650px;
     width: 100%;
     background-size: cover;
